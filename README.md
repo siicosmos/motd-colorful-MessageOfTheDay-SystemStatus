@@ -13,22 +13,22 @@ Installation
 $ gem install iStats
 ```
 
-###lolcat
+### lolcat
 Installation
 ```
 $ gem install lolcat
 ```
-###fortune
+### fortune
 Installation
 ```
 $ brew install fortune
 ```
-###artii
+### artii
 Installation
 ```
 $ gem install artii
 ```
-###cowsay
+### cowsay
 Installation
 ```
 $ brew install cowsay
